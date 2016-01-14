@@ -11,3 +11,11 @@ redcarpet:
 sass:
   sass_dir: public/css
   style: :compressed
+
+# Disqus comments
+comments :
+  provider : disqus
+  disqus :
+    short_name : kwareblog
+
+
